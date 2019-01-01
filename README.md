@@ -1,4 +1,4 @@
-# Учебный проект «Код и Магия» [![Build status][travis-image]][travis-url]
+# Учебный проект «Код и Магия» 
 
 ---
 
@@ -24,5 +24,4 @@ _`.editorconfig`, `.eslintrc`, `.gitattributes`, `.gitignore`, `.travis.yml`, `p
 
 Репозиторий создан для обучения на интенсивном онлайн‑курсе «[Профессиональный JavaScript](https://htmlacademy.ru/intensive/javascript)», уровень 1 от [HTML Academy](https://htmlacademy.ru).
 
-[travis-image]: https://travis-ci.org/htmlacademy-javascript/239338-code-and-magick.svg?branch=master
-[travis-url]: https://travis-ci.org/htmlacademy-javascript/239338-code-and-magick
+
