@@ -20,7 +20,6 @@ _`.editorconfig`, `.eslintrc`, `.gitattributes`, `.gitignore`, `.travis.yml`, `p
 * Игра считается выигранной если фаерболл попал в забор.
 * Окно редактирования и просмотра похожих персонажей открывается по клику на иконке в правом верхнем углу.
 ---
-### Для запуска приложения перейдите по ссылке https://golubevd.github.io/code-and-magic/
 
 Репозиторий создан для обучения на интенсивном онлайн‑курсе «[Профессиональный JavaScript](https://htmlacademy.ru/intensive/javascript)», уровень 1 от [HTML Academy](https://htmlacademy.ru).
 
